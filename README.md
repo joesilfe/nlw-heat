@@ -14,13 +14,23 @@
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
---Backend
+## Back-end
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
+- [Axios](https://axios-http.com/docs/intro)
 - [Prisma](https://www.prisma.io/)
 - [JSON Web Token](https://jwt.io/)
 - [Socket.IO](https://socket.io/)
+
+## Front-end
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [ViteJS](https://vitejs.dev/)
+- [React Icons](https://react-icons.github.io/react-icons)
+- [Axios](https://axios-http.com/docs/intro)
+- [Sass](https://sass-lang.com/)
+- [Socket.IO Client](https://socket.io/docs/v4/client-api/)
+
 
 ## 🚀 Como executar
 
