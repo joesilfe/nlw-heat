@@ -1,4 +1,4 @@
-<h1 align="center">NLW Heat - Node.js</h1>
+<h1 align="center">NLW Heat - ReactJS & Node.js</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,6 +15,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+--Backend
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/)
