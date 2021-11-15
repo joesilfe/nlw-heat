@@ -28,8 +28,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Clone o repositório e acesse a pasta;
 - Faça uma copia do arquivo `.env.example` para `.env` e preencha com as suas credenciais do GitHub;
 - Instale as dependências com `yarn`;
-- Executa as migrations com `yarn prisma migrate dev`;
+- Executa as migrations com `yarn dev:migrate`;
 - Inicie o servidor com `yarn dev`;
+
+- Para acessar o Prisma Studio rode o comando `yarn dev:studio`;
 
 A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 
@@ -39,4 +41,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by Rocketseat 👋🏻 &nbsp;[Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Joel Silva 👋🏻 com RocketSeat
