@@ -1,3 +1,5 @@
+@import './colors.module.scss';
+
 * {
     padding: 0;
     margin: 0;
@@ -7,6 +9,6 @@
 }
 
 body {
-    color: #e1e1e6;
-    background-color: #121214;
+    color: $gray1-color;
+    background-color: $black3-color;
 }
